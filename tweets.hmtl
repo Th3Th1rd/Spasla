@@ -1,1 +1,15 @@
-<a class="twitter-timeline" href="https://twitter.com/DrThomasWhite">Tweets by DrThomasWhite</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+   <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Document</title>
+    </head>       
+    <body>
+       <h1> Follow us on twitter and see what the next world leaders are getting into. <h1>          
+            <a class="twitter-timeline" href="https://twitter.com/DrThomasWhite">Tweets by DrThomasWhite</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+      
+    </body>
+  </html>
+    
